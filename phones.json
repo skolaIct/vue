@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "name": "iPhone 13",
+    "price": 799,
+    "available": true
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "name": "Galaxy S21",
+    "price": 699,
+    "available": true
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "name": "Pixel 6",
+    "price": 599,
+    "available": false
+  },
+  {
+    "id": 4,
+    "brand": "OnePlus",
+    "name": "OnePlus 9",
+    "price": 729,
+    "available": true
+  },
+  {
+    "id": 5,
+    "brand": "Xiaomi",
+    "name": "Mi 11",
+    "price": 749,
+    "available": false
+  },
+  {
+    "id": 6,
+    "brand": "Sony",
+    "name": "Xperia 5 II",
+    "price": 899,
+    "available": true
+  },
+  {
+    "id": 7,
+    "brand": "LG",
+    "name": "V60 ThinQ",
+    "price": 799,
+    "available": false
+  },
+  {
+    "id": 8,
+    "brand": "Motorola",
+    "name": "Moto G100",
+    "price": 499,
+    "available": true
+  },
+  {
+    "id": 9,
+    "brand": "Huawei",
+    "name": "P40 Pro",
+    "price": 999,
+    "available": false
+  },
+  {
+    "id": 10,
+    "brand": "Oppo",
+    "name": "Find X3 Pro",
+    "price": 1149,
+    "available": true
+  }
+]
